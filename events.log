@@ -1,0 +1,1362 @@
+1: process 1 (pid 10304, parent 10303) has STARTED with balance $10
+3: process 1 received all STARTED messages
+1: process 2 (pid 10305, parent 10303) has STARTED with balance $20
+3: process 2 received all STARTED messages
+1: process 3 (pid 10306, parent 10303) has STARTED with balance $30
+3: process 3 received all STARTED messages
+1: process 4 (pid 10307, parent 10303) has STARTED with balance $40
+3: process 4 received all STARTED messages
+1: process 5 (pid 10308, parent 10303) has STARTED with balance $90
+3: process 5 received all STARTED messages
+1: process 2 (pid 10373, parent 10371) has STARTED with balance $20
+3: process 2 received all STARTED messages
+1: process 1 (pid 10372, parent 10371) has STARTED with balance $10
+3: process 1 received all STARTED messages
+1: process 3 (pid 10374, parent 10371) has STARTED with balance $30
+3: process 3 received all STARTED messages
+1: process 4 (pid 10375, parent 10371) has STARTED with balance $40
+3: process 4 received all STARTED messages
+1: process 5 (pid 10376, parent 10371) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 10467, parent 10466) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 10468, parent 10466) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 10469, parent 10466) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 10470, parent 10466) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 10471, parent 10466) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 2 (pid 10584, parent 10582) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 1 (pid 10583, parent 10582) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 3 (pid 10585, parent 10582) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 10586, parent 10582) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 10587, parent 10582) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 10745, parent 10744) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 10746, parent 10744) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 10747, parent 10744) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 10748, parent 10744) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 10749, parent 10744) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 10853, parent 10852) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 10854, parent 10852) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 10855, parent 10852) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 10856, parent 10852) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 10857, parent 10852) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 11958, parent 11957) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 11959, parent 11957) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 11960, parent 11957) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 11961, parent 11957) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 11962, parent 11957) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 12196, parent 12195) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12197, parent 12195) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 12198, parent 12195) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 12199, parent 12195) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12200, parent 12195) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 12501, parent 12500) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12502, parent 12500) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 12503, parent 12500) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 12504, parent 12500) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12505, parent 12500) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 12533, parent 12532) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12534, parent 12532) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 12535, parent 12532) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 12536, parent 12532) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12537, parent 12532) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 12602, parent 12601) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12603, parent 12601) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 4 (pid 12605, parent 12601) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12606, parent 12601) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 3 (pid 12604, parent 12601) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 1 (pid 12625, parent 12624) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12626, parent 12624) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 12627, parent 12624) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 12628, parent 12624) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12629, parent 12624) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 12681, parent 12680) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12682, parent 12680) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 12683, parent 12680) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 12684, parent 12680) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12685, parent 12680) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 12840, parent 12839) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12841, parent 12839) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 12842, parent 12839) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 12843, parent 12839) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12844, parent 12839) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 12901, parent 12900) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 12902, parent 12900) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 12903, parent 12900) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 12904, parent 12900) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 12905, parent 12900) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 13005, parent 13004) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 13006, parent 13004) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 13007, parent 13004) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 13008, parent 13004) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 13009, parent 13004) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 13096, parent 13095) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 13097, parent 13095) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 13098, parent 13095) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 13099, parent 13095) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 13100, parent 13095) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 13343, parent 13342) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 4 (pid 13346, parent 13342) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 2 (pid 13344, parent 13342) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 5 (pid 13347, parent 13342) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 3 (pid 13345, parent 13342) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 1 (pid 13504, parent 13503) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 13505, parent 13503) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 13506, parent 13503) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 5 (pid 13508, parent 13503) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 4 (pid 13507, parent 13503) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 1 (pid 13574, parent 13573) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 13575, parent 13573) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 13576, parent 13573) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 13577, parent 13573) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 13578, parent 13573) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 13597, parent 13596) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 13598, parent 13596) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 13599, parent 13596) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 13600, parent 13596) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 13601, parent 13596) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 13737, parent 13736) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 13738, parent 13736) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 13739, parent 13736) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 13740, parent 13736) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 13741, parent 13736) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 14803, parent 14802) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 14804, parent 14802) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 14805, parent 14802) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 14806, parent 14802) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 14807, parent 14802) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 14896, parent 14895) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 14897, parent 14895) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 14898, parent 14895) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 14899, parent 14895) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 14900, parent 14895) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15021, parent 15020) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15022, parent 15020) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15023, parent 15020) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15024, parent 15020) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15025, parent 15020) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15058, parent 15057) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15059, parent 15057) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15060, parent 15057) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15061, parent 15057) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15062, parent 15057) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15105, parent 15104) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15106, parent 15104) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15107, parent 15104) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15108, parent 15104) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15109, parent 15104) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15158, parent 15157) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15159, parent 15157) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15160, parent 15157) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15161, parent 15157) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15162, parent 15157) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 2 (pid 15262, parent 15260) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15263, parent 15260) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 5 (pid 15265, parent 15260) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15261, parent 15260) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 4 (pid 15264, parent 15260) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 1 (pid 15280, parent 15279) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15281, parent 15279) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15282, parent 15279) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15283, parent 15279) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15284, parent 15279) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15408, parent 15407) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15409, parent 15407) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15410, parent 15407) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15411, parent 15407) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15412, parent 15407) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 2 (pid 15505, parent 15503) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 1 (pid 15504, parent 15503) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 3 (pid 15506, parent 15503) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15507, parent 15503) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15508, parent 15503) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 2 (pid 15619, parent 15617) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 1 (pid 15618, parent 15617) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 3 (pid 15620, parent 15617) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15621, parent 15617) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15622, parent 15617) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15664, parent 15663) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15665, parent 15663) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15666, parent 15663) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15667, parent 15663) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15668, parent 15663) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 2 (pid 15864, parent 15862) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 1 (pid 15863, parent 15862) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 3 (pid 15865, parent 15862) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15866, parent 15862) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15867, parent 15862) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 15919, parent 15918) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 15920, parent 15918) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 3 (pid 15921, parent 15918) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 15922, parent 15918) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 5 (pid 15923, parent 15918) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 16181, parent 16180) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 3 (pid 16183, parent 16180) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 16184, parent 16180) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 2 (pid 16182, parent 16180) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 5 (pid 16185, parent 16180) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 3 (pid 16232, parent 16229) has STARTED with balance $30
+3: process 3 received all STARTED messages
+0: process 4 (pid 16233, parent 16229) has STARTED with balance $40
+3: process 4 received all STARTED messages
+0: process 1 (pid 16230, parent 16229) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 16231, parent 16229) has STARTED with balance $20
+3: process 2 received all STARTED messages
+0: process 5 (pid 16234, parent 16229) has STARTED with balance $90
+3: process 5 received all STARTED messages
+0: process 1 (pid 16391, parent 16390) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 16392, parent 16390) has STARTED with balance $10
+3: process 2 received all STARTED messages
+0: process 3 (pid 16393, parent 16390) has STARTED with balance $20
+3: process 3 received all STARTED messages
+0: process 4 (pid 16394, parent 16390) has STARTED with balance $20
+3: process 4 received all STARTED messages
+0: process 5 (pid 16395, parent 16390) has STARTED with balance $30
+3: process 5 received all STARTED messages
+0: process 1 (pid 16438, parent 16437) has STARTED with balance $10
+2: process 1 received all STARTED messages
+0: process 2 (pid 16439, parent 16437) has STARTED with balance $10
+2: process 2 received all STARTED messages
+0: process 3 (pid 16440, parent 16437) has STARTED with balance $20
+2: process 3 received all STARTED messages
+0: process 4 (pid 16441, parent 16437) has STARTED with balance $20
+2: process 4 received all STARTED messages
+0: process 5 (pid 16442, parent 16437) has STARTED with balance $30
+2: process 5 received all STARTED messages
+0: process 1 (pid 16465, parent 16464) has STARTED with balance $10
+2: process 1 received all STARTED messages
+0: process 2 (pid 16466, parent 16464) has STARTED with balance $10
+2: process 2 received all STARTED messages
+0: process 4 (pid 16468, parent 16464) has STARTED with balance $20
+2: process 4 received all STARTED messages
+0: process 5 (pid 16469, parent 16464) has STARTED with balance $30
+2: process 5 received all STARTED messages
+0: process 3 (pid 16467, parent 16464) has STARTED with balance $20
+2: process 3 received all STARTED messages
+0: process 1 (pid 16497, parent 16496) has STARTED with balance $10
+2: process 1 received all STARTED messages
+0: process 2 (pid 16498, parent 16496) has STARTED with balance $10
+2: process 2 received all STARTED messages
+0: process 3 (pid 16499, parent 16496) has STARTED with balance $20
+2: process 3 received all STARTED messages
+0: process 4 (pid 16500, parent 16496) has STARTED with balance $20
+2: process 4 received all STARTED messages
+0: process 5 (pid 16501, parent 16496) has STARTED with balance $30
+2: process 5 received all STARTED messages
+0: process 2 (pid 16521, parent 16519) has STARTED with balance $10
+3: process 2 received all STARTED messages
+0: process 1 (pid 16520, parent 16519) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 4 (pid 16523, parent 16519) has STARTED with balance $20
+3: process 4 received all STARTED messages
+0: process 5 (pid 16524, parent 16519) has STARTED with balance $30
+3: process 5 received all STARTED messages
+0: process 3 (pid 16522, parent 16519) has STARTED with balance $20
+3: process 3 received all STARTED messages
+0: process 1 (pid 16563, parent 16562) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 16564, parent 16562) has STARTED with balance $10
+3: process 2 received all STARTED messages
+0: process 3 (pid 16565, parent 16562) has STARTED with balance $20
+3: process 3 received all STARTED messages
+0: process 4 (pid 16566, parent 16562) has STARTED with balance $20
+3: process 4 received all STARTED messages
+0: process 5 (pid 16567, parent 16562) has STARTED with balance $30
+3: process 5 received all STARTED messages
+0: process 1 (pid 16583, parent 16582) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 16584, parent 16582) has STARTED with balance $10
+3: process 2 received all STARTED messages
+0: process 3 (pid 16585, parent 16582) has STARTED with balance $20
+3: process 3 received all STARTED messages
+0: process 4 (pid 16586, parent 16582) has STARTED with balance $20
+3: process 4 received all STARTED messages
+0: process 5 (pid 16587, parent 16582) has STARTED with balance $30
+3: process 5 received all STARTED messages
+0: process 1 (pid 16611, parent 16610) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 16612, parent 16610) has STARTED with balance $10
+3: process 2 received all STARTED messages
+0: process 3 (pid 16613, parent 16610) has STARTED with balance $20
+3: process 3 received all STARTED messages
+0: process 4 (pid 16614, parent 16610) has STARTED with balance $20
+3: process 4 received all STARTED messages
+0: process 5 (pid 16615, parent 16610) has STARTED with balance $30
+3: process 5 received all STARTED messages
+0: process 1 (pid 16632, parent 16631) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 16633, parent 16631) has STARTED with balance $10
+3: process 2 received all STARTED messages
+0: process 3 (pid 16634, parent 16631) has STARTED with balance $20
+3: process 3 received all STARTED messages
+0: process 5 (pid 16636, parent 16631) has STARTED with balance $30
+3: process 5 received all STARTED messages
+0: process 4 (pid 16635, parent 16631) has STARTED with balance $20
+3: process 4 received all STARTED messages
+0: process 1 (pid 16819, parent 16818) has STARTED with balance $10
+3: process 1 received all STARTED messages
+0: process 2 (pid 16820, parent 16818) has STARTED with balance $10
+3: process 2 received all STARTED messages
+0: process 3 (pid 16821, parent 16818) has STARTED with balance $20
+3: process 3 received all STARTED messages
+0: process 4 (pid 16822, parent 16818) has STARTED with balance $20
+3: process 4 received all STARTED messages
+0: process 5 (pid 16823, parent 16818) has STARTED with balance $30
+3: process 5 received all STARTED messages
+0: process 1 (pid 17847, parent 17846) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 17848, parent 17846) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 3 (pid 17849, parent 17846) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 17850, parent 17846) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 17851, parent 17846) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 17924, parent 17923) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 17925, parent 17923) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 4 (pid 17927, parent 17923) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 17928, parent 17923) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 3 (pid 17926, parent 17923) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 1 (pid 18088, parent 18087) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 18089, parent 18087) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 3 (pid 18090, parent 18087) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18091, parent 18087) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18092, parent 18087) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 18141, parent 18140) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 18142, parent 18140) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 4 (pid 18144, parent 18140) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18145, parent 18140) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 3 (pid 18143, parent 18140) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 1 (pid 18218, parent 18217) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 18219, parent 18217) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 3 (pid 18220, parent 18217) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18221, parent 18217) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18222, parent 18217) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 2 (pid 18245, parent 18243) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 1 (pid 18244, parent 18243) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 3 (pid 18246, parent 18243) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18247, parent 18243) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18248, parent 18243) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 18323, parent 18322) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 18324, parent 18322) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 3 (pid 18325, parent 18322) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18326, parent 18322) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18327, parent 18322) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 18401, parent 18400) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 3 (pid 18403, parent 18400) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18404, parent 18400) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 2 (pid 18402, parent 18400) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 5 (pid 18405, parent 18400) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 18430, parent 18429) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 4 (pid 18433, parent 18429) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 3 (pid 18432, parent 18429) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 5 (pid 18434, parent 18429) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 2 (pid 18431, parent 18429) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 2 (pid 18704, parent 18702) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 1 (pid 18703, parent 18702) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 3 (pid 18705, parent 18702) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18706, parent 18702) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18707, parent 18702) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 2 (pid 18763, parent 18761) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 1 (pid 18762, parent 18761) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 3 (pid 18764, parent 18761) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18765, parent 18761) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18766, parent 18761) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 18818, parent 18817) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 18819, parent 18817) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 3 (pid 18820, parent 18817) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 18821, parent 18817) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 18822, parent 18817) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 18826, parent 18825) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 18827, parent 18825) has STARTED with balance $20
+4: process 2 received all STARTED messages
+0: process 1 (pid 18997, parent 18996) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 18998, parent 18996) has STARTED with balance $20
+4: process 2 received all STARTED messages
+0: process 1 (pid 19021, parent 19020) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 19022, parent 19020) has STARTED with balance $20
+4: process 2 received all STARTED messages
+0: process 1 (pid 19029, parent 19028) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 19030, parent 19028) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 3 (pid 19031, parent 19028) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 19032, parent 19028) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 19033, parent 19028) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 19103, parent 19102) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 2 (pid 19104, parent 19102) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 3 (pid 19105, parent 19102) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 4 (pid 19106, parent 19102) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 5 (pid 19107, parent 19102) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 4 (pid 19135, parent 19131) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 3 (pid 19134, parent 19131) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 2 (pid 19133, parent 19131) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 5 (pid 19136, parent 19131) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 19132, parent 19131) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 3 (pid 19215, parent 19212) has STARTED with balance $20
+4: process 3 received all STARTED messages
+0: process 2 (pid 19214, parent 19212) has STARTED with balance $10
+4: process 2 received all STARTED messages
+0: process 4 (pid 19216, parent 19212) has STARTED with balance $20
+4: process 4 received all STARTED messages
+0: process 1 (pid 19213, parent 19212) has STARTED with balance $10
+4: process 1 received all STARTED messages
+0: process 5 (pid 19217, parent 19212) has STARTED with balance $30
+4: process 5 received all STARTED messages
+0: process 1 (pid 19712, parent 19711) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 3 (pid 19714, parent 19711) has STARTED with balance $20
+1: process 3 received all STARTED messages
+0: process 2 (pid 19713, parent 19711) has STARTED with balance $10
+1: process 2 received all STARTED messages
+0: process 4 (pid 19715, parent 19711) has STARTED with balance $20
+1: process 4 received all STARTED messages
+0: process 5 (pid 19716, parent 19711) has STARTED with balance $30
+1: process 5 received all STARTED messages
+0: process 1 (pid 19847, parent 19846) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid 19848, parent 19846) has STARTED with balance $10
+1: process 2 received all STARTED messages
+0: process 5 (pid 19851, parent 19846) has STARTED with balance $30
+1: process 5 received all STARTED messages
+0: process 3 (pid 19849, parent 19846) has STARTED with balance $20
+1: process 3 received all STARTED messages
+0: process 4 (pid 19850, parent 19846) has STARTED with balance $20
+1: process 4 received all STARTED messages
+0: process 3 (pid  8490, parent  8487) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 1 (pid  8488, parent  8487) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid  8489, parent  8487) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 5 (pid  8492, parent  8487) has STARTED with balance $90
+1: process 5 received all STARTED messages
+0: process 4 (pid  8491, parent  8487) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 1 (pid  8526, parent  8525) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid  8527, parent  8525) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 3 (pid  8528, parent  8525) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 4 (pid  8529, parent  8525) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid  8530, parent  8525) has STARTED with balance $90
+1: process 5 received all STARTED messages
+0: process 1 (pid  8546, parent  8545) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid  8547, parent  8545) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 4 (pid  8549, parent  8545) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid  8550, parent  8545) has STARTED with balance $90
+1: process 5 received all STARTED messages
+0: process 3 (pid  8548, parent  8545) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 1 (pid  9603, parent  9602) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid  9604, parent  9602) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 3 (pid  9605, parent  9602) has STARTED with balance $30
+2: process 3 received all STARTED messages
+0: process 4 (pid  9606, parent  9602) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid  9607, parent  9602) has STARTED with balance $90
+2: process 5 received all STARTED messages
+0: process 1 (pid 11235, parent 11234) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid 11236, parent 11234) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 3 (pid 11237, parent 11234) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 4 (pid 11238, parent 11234) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid 11239, parent 11234) has STARTED with balance $90
+1: process 5 received all STARTED messages
+0: process 1 (pid 11271, parent 11270) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid 11272, parent 11270) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 3 (pid 11273, parent 11270) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 4 (pid 11274, parent 11270) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid 11275, parent 11270) has STARTED with balance $90
+1: process 5 received all STARTED messages
+0: process 1 (pid 11343, parent 11342) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid 11344, parent 11342) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 3 (pid 11345, parent 11342) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 4 (pid 11346, parent 11342) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid 11347, parent 11342) has STARTED with balance $90
+1: process 5 received all STARTED messages
+0: process 1 (pid 11402, parent 11401) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 2 (pid 11403, parent 11401) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 3 (pid 11404, parent 11401) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 4 (pid 11405, parent 11401) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid 11406, parent 11401) has STARTED with balance $90
+1: process 5 received all STARTED messages
+0: process 2 (pid 11430, parent 11428) has STARTED with balance $20
+1: process 2 received all STARTED messages
+0: process 3 (pid 11431, parent 11428) has STARTED with balance $30
+1: process 3 received all STARTED messages
+0: process 1 (pid 11429, parent 11428) has STARTED with balance $10
+1: process 1 received all STARTED messages
+0: process 4 (pid 11432, parent 11428) has STARTED with balance $40
+1: process 4 received all STARTED messages
+0: process 5 (pid 11433, parent 11428) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 11495, parent 11494) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 11496, parent 11494) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 11497, parent 11494) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 11498, parent 11494) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 11499, parent 11494) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 11697, parent 11696) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 11698, parent 11696) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 11699, parent 11696) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 11700, parent 11696) has STARTED with balance $40
+2: process 4 received all STARTED messages
+1: process 5 (pid 11701, parent 11696) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 11769, parent 11768) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 11770, parent 11768) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 11771, parent 11768) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 11772, parent 11768) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 11773, parent 11768) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 11809, parent 11808) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 11810, parent 11808) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 11811, parent 11808) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 11812, parent 11808) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 11813, parent 11808) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 3 (pid 12176, parent 12173) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 2 (pid 12175, parent 12173) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 1 (pid 12174, parent 12173) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 4 (pid 12177, parent 12173) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 12178, parent 12173) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 12280, parent 12279) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 12281, parent 12279) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 12282, parent 12279) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 12283, parent 12279) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 12284, parent 12279) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 12523, parent 12522) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 12524, parent 12522) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 12525, parent 12522) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 12526, parent 12522) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 12527, parent 12522) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 12605, parent 12604) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 12606, parent 12604) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 12607, parent 12604) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 12608, parent 12604) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 12609, parent 12604) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 12640, parent 12639) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 5 (pid 12644, parent 12639) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 3 (pid 12642, parent 12639) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 12643, parent 12639) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 2 (pid 12641, parent 12639) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 2 (pid 12662, parent 12660) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 12663, parent 12660) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 5 (pid 12665, parent 12660) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 4 (pid 12664, parent 12660) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 1 (pid 12661, parent 12660) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 1 (pid 12699, parent 12698) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 12700, parent 12698) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 12701, parent 12698) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 12702, parent 12698) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 12703, parent 12698) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 13242, parent 13241) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 3 (pid 13244, parent 13241) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 13245, parent 13241) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 2 (pid 13243, parent 13241) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 5 (pid 13246, parent 13241) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 3 (pid 14062, parent 14059) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 1 (pid 14060, parent 14059) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 14061, parent 14059) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 4 (pid 14063, parent 14059) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 14064, parent 14059) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 14086, parent 14085) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 14087, parent 14085) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 14088, parent 14085) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 14089, parent 14085) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 14090, parent 14085) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 14133, parent 14132) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 14134, parent 14132) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 14135, parent 14132) has STARTED with balance $30
+2: process 3 received all STARTED messages
+1: process 4 (pid 14136, parent 14132) has STARTED with balance $40
+2: process 4 received all STARTED messages
+1: process 5 (pid 14137, parent 14132) has STARTED with balance $90
+2: process 5 received all STARTED messages
+1: process 1 (pid 14407, parent 14406) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 14408, parent 14406) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 14409, parent 14406) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 14410, parent 14406) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 14411, parent 14406) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 14439, parent 14438) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 14440, parent 14438) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 14441, parent 14438) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 14442, parent 14438) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 14443, parent 14438) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 15190, parent 15189) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 15191, parent 15189) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 15192, parent 15189) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 15193, parent 15189) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 15194, parent 15189) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 15257, parent 15256) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 3 (pid 15259, parent 15256) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 2 (pid 15258, parent 15256) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 4 (pid 15260, parent 15256) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 15261, parent 15256) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 2 (pid 15750, parent 15748) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 1 (pid 15749, parent 15748) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 3 (pid 15751, parent 15748) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 15752, parent 15748) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 15753, parent 15748) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 16202, parent 16201) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 3 (pid 16204, parent 16201) has STARTED with balance $30
+0: process 3 received all STARTED messages
+1: process 2 (pid 16203, parent 16201) has STARTED with balance $20
+0: process 2 received all STARTED messages
+1: process 5 (pid 16206, parent 16201) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 4 (pid 16205, parent 16201) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 1 (pid 16458, parent 16457) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 16459, parent 16457) has STARTED with balance $20
+0: process 2 received all STARTED messages
+1: process 5 (pid 16462, parent 16457) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 4 (pid 16461, parent 16457) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 3 (pid 16460, parent 16457) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 1 (pid 16501, parent 16500) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 16502, parent 16500) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 16503, parent 16500) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 16504, parent 16500) has STARTED with balance $40
+2: process 4 received all STARTED messages
+1: process 5 (pid 16505, parent 16500) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 16661, parent 16660) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 16662, parent 16660) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 16663, parent 16660) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 16664, parent 16660) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 16665, parent 16660) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 4 (pid 17200, parent 17196) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 3 (pid 17199, parent 17196) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 1 (pid 17197, parent 17196) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 5 (pid 17201, parent 17196) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 2 (pid 17198, parent 17196) has STARTED with balance $20
+0: process 2 received all STARTED messages
+1: process 2 (pid 17263, parent 17261) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 17264, parent 17261) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 1 (pid 17262, parent 17261) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 4 (pid 17265, parent 17261) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 17266, parent 17261) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 17661, parent 17660) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 17662, parent 17660) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 17663, parent 17660) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 17664, parent 17660) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 17665, parent 17660) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 17725, parent 17724) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 17726, parent 17724) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 17727, parent 17724) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 17728, parent 17724) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 17729, parent 17724) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 2 (pid 18163, parent 18161) has STARTED with balance $20
+2: process 2 received all STARTED messages
+1: process 1 (pid 18162, parent 18161) has STARTED with balance $10
+2: process 1 received all STARTED messages
+1: process 3 (pid 18164, parent 18161) has STARTED with balance $30
+2: process 3 received all STARTED messages
+1: process 4 (pid 18165, parent 18161) has STARTED with balance $40
+2: process 4 received all STARTED messages
+1: process 5 (pid 18166, parent 18161) has STARTED with balance $90
+2: process 5 received all STARTED messages
+1: process 1 (pid 18211, parent 18210) has STARTED with balance $10
+0: process 1 received all STARTED messages
+1: process 3 (pid 18213, parent 18210) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18214, parent 18210) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18215, parent 18210) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 2 (pid 18212, parent 18210) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 1 (pid 18233, parent 18232) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 4 (pid 18236, parent 18232) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 2 (pid 18234, parent 18232) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 18235, parent 18232) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 5 (pid 18237, parent 18232) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 18279, parent 18278) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 18280, parent 18278) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 18281, parent 18278) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18282, parent 18278) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18283, parent 18278) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 18318, parent 18317) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 18319, parent 18317) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 18320, parent 18317) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18321, parent 18317) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18322, parent 18317) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 18340, parent 18339) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 18341, parent 18339) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 18342, parent 18339) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18343, parent 18339) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18344, parent 18339) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 18512, parent 18511) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 18513, parent 18511) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 18514, parent 18511) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18515, parent 18511) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18516, parent 18511) has STARTED with balance $90
+2: process 5 received all STARTED messages
+1: process 1 (pid 18552, parent 18551) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 18553, parent 18551) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 18554, parent 18551) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18555, parent 18551) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18556, parent 18551) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 18589, parent 18588) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 2 (pid 18590, parent 18588) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 3 (pid 18591, parent 18588) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18592, parent 18588) has STARTED with balance $40
+2: process 4 received all STARTED messages
+1: process 5 (pid 18593, parent 18588) has STARTED with balance $90
+2: process 5 received all STARTED messages
+1: process 1 (pid 18630, parent 18629) has STARTED with balance $10
+0: process 1 received all STARTED messages
+1: process 2 (pid 18631, parent 18629) has STARTED with balance $20
+0: process 2 received all STARTED messages
+1: process 5 (pid 18634, parent 18629) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 3 (pid 18632, parent 18629) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18633, parent 18629) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 2 (pid 18658, parent 18656) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 1 (pid 18657, parent 18656) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 3 (pid 18659, parent 18656) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18660, parent 18656) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18661, parent 18656) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 2 (pid 18695, parent 18693) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 1 (pid 18694, parent 18693) has STARTED with balance $10
+1: process 1 received all STARTED messages
+1: process 3 (pid 18696, parent 18693) has STARTED with balance $30
+1: process 3 received all STARTED messages
+1: process 4 (pid 18697, parent 18693) has STARTED with balance $40
+1: process 4 received all STARTED messages
+1: process 5 (pid 18698, parent 18693) has STARTED with balance $90
+1: process 5 received all STARTED messages
+1: process 1 (pid 18725, parent 18724) has STARTED with balance $10
+2: process 1 received all STARTED messages
+1: process 2 (pid 18726, parent 18724) has STARTED with balance $20
+2: process 2 received all STARTED messages
+1: process 3 (pid 18727, parent 18724) has STARTED with balance $30
+2: process 3 received all STARTED messages
+1: process 4 (pid 18728, parent 18724) has STARTED with balance $40
+2: process 4 received all STARTED messages
+1: process 5 (pid 18729, parent 18724) has STARTED with balance $90
+2: process 5 received all STARTED messages
+1: process 2 (pid 18794, parent 18792) has STARTED with balance $20
+2: process 2 received all STARTED messages
+1: process 3 (pid 18795, parent 18792) has STARTED with balance $30
+2: process 3 received all STARTED messages
+1: process 4 (pid 18796, parent 18792) has STARTED with balance $40
+2: process 4 received all STARTED messages
+1: process 5 (pid 18797, parent 18792) has STARTED with balance $90
+2: process 5 received all STARTED messages
+1: process 1 (pid 18793, parent 18792) has STARTED with balance $10
+2: process 1 received all STARTED messages
+1: process 1 (pid 19172, parent 19171) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 19173, parent 19171) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 5 (pid 19176, parent 19171) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 4 (pid 19175, parent 19171) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 3 (pid 19174, parent 19171) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 1 (pid 19449, parent 19448) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 19450, parent 19448) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 19451, parent 19448) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 19452, parent 19448) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 19453, parent 19448) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 2 (pid 19480, parent 19478) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 19481, parent 19478) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 1 (pid 19479, parent 19478) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 5 (pid 19483, parent 19478) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 4 (pid 19482, parent 19478) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 1 (pid 19518, parent 19517) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 19519, parent 19517) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 19520, parent 19517) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 19521, parent 19517) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 19522, parent 19517) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 19541, parent 19540) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 19542, parent 19540) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 19543, parent 19540) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 19544, parent 19540) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 19545, parent 19540) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 2 (pid 19568, parent 19566) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 1 (pid 19567, parent 19566) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 3 (pid 19569, parent 19566) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 19570, parent 19566) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 19571, parent 19566) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 20637, parent 20636) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 3 (pid 20639, parent 20636) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 20640, parent 20636) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 20641, parent 20636) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 2 (pid 20638, parent 20636) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 2 (pid 20876, parent 20874) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 1 (pid 20875, parent 20874) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 3 (pid 20877, parent 20874) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 20878, parent 20874) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 20879, parent 20874) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 20946, parent 20945) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 20947, parent 20945) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 20948, parent 20945) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 20949, parent 20945) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 20950, parent 20945) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 21205, parent 21204) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 21206, parent 21204) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 4 (pid 21208, parent 21204) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 3 (pid 21207, parent 21204) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 5 (pid 21209, parent 21204) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 21234, parent 21233) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 21235, parent 21233) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 21236, parent 21233) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 21237, parent 21233) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 21238, parent 21233) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 21274, parent 21273) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 21275, parent 21273) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 21276, parent 21273) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 21277, parent 21273) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 21278, parent 21273) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 21346, parent 21345) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 21347, parent 21345) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 4 (pid 21349, parent 21345) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 21350, parent 21345) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 3 (pid 21348, parent 21345) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 1 (pid 21566, parent 21565) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 21567, parent 21565) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 21568, parent 21565) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 21569, parent 21565) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 21570, parent 21565) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 21681, parent 21680) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 21682, parent 21680) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 21683, parent 21680) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 21684, parent 21680) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 21685, parent 21680) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 2 (pid 21731, parent 21729) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 1 (pid 21730, parent 21729) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 3 (pid 21732, parent 21729) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 21733, parent 21729) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 21734, parent 21729) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid 21786, parent 21785) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 2 (pid 21787, parent 21785) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 3 (pid 21788, parent 21785) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid 21789, parent 21785) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 5 (pid 21790, parent 21785) has STARTED with balance $90
+5: process 5 received all STARTED messages
+1: process 1 (pid  8305, parent  8304) has STARTED with balance $10
+5: process 1 received all STARTED messages
+1: process 3 (pid  8307, parent  8304) has STARTED with balance $30
+5: process 3 received all STARTED messages
+1: process 4 (pid  8308, parent  8304) has STARTED with balance $40
+5: process 4 received all STARTED messages
+1: process 2 (pid  8306, parent  8304) has STARTED with balance $20
+5: process 2 received all STARTED messages
+1: process 5 (pid  8309, parent  8304) has STARTED with balance $90
+5: process 5 received all STARTED messages
